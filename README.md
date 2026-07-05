@@ -24,7 +24,7 @@ As fontes abertas e artigos científicos fundamentais para a elaboração desse 
 **Engenharia de Prompdts e "Cicatrizes"**<br>
 Ao longo desse estudo foram elaboradas perguntas estrátegicas para extrair respostas desse caderno temático. Abaixo, o registro do raciocínio e do troubleshooting(cicatrizes):
 
-- *Prompt 1:* Como a potência muscular afeta a velocidade em provas curtas?
+*- Prompt 1:* Como a potência muscular afeta a velocidade em provas curtas?
 - *Resposta:* 
     A potência muscular é um fator determinante e afeta diretamente a velocidade em provas curtas (como os 50m e 100m) ao permitir que o nadador realize movimentos explosivos e alcance altos níveis de aceleração na água. A literatura científica aponta para uma correlação quase linear entre a força muscular (especialmente dos membros superiores) e a velocidade na água nessas distâncias; ou seja, nadadores mais fortes tendem a ter tempos significativamente mais rápidos em provas de sprint.
     O impacto da potência muscular na velocidade de provas curtas se dá por meio dos seguintes mecanismos:
@@ -37,8 +37,9 @@ Ao longo desse estudo foram elaboradas perguntas estrátegicas para extrair resp
 
 No *Prompt 1* a IA relacionou perfeitamente o recrutamento de fibras de contração rápida com a aplicação de impulsos verticais e horizontais nas saídas e viradas, além do armazenamento de fosfato de creatina. Para extrair a melhor reposta da IA, foi necessario um refinamento de prompts iniciais muito genéricos como "Como treinar para provas curtas?" para um prompt com o termo "potência muscular" forçando a IA a buscar dados mais profundo fisilógicamente e a importância do treinamento de força máxima.
 <br>
+<br>
 
-- *Prompt_2:* Como integrar o treinamento de potência com a técnica eficiente?
+*- Prompt_2:* Como integrar o treinamento de potência com a técnica eficiente?
 - *Resposta:*
     A integração entre o treinamento de potência e a técnica eficiente é o que permite transformar a força bruta adquirida na academia em velocidade real de deslocamento na água. Não basta apenas levantar altas cargas na musculação (como 100 kg no supino) para ser rápido na piscina; é necessário que o sistema nervoso central aprenda a recrutar as fibras musculares na sequência exata exigida pelo nado.
     Para que essa integração ocorra de forma efetiva e gere resultados no alto rendimento, o treinamento deve seguir alguns pilares estratégicos:
@@ -50,8 +51,9 @@ No *Prompt 1* a IA relacionou perfeitamente o recrutamento de fibras de contraç
 
 No *Prompt 2* a reposta obtida explicou a necessidade de "transferência muscular" através do nado resistido (paraquedas, palmares) e o perigo de uma hipertrofia exagerada (aumentando o arrasto hidrodinâmico). Outro destaque relevante foi a importância da automatização da técnica sob alta exigência de lactato. A dificuldade encontrada inicialmente para chegar a esse nível de resposta foi encontrar a palavra que faria com que a respota indica-se o "raciocínio por trás", e não apenas listar exercícios de musculação e, separadamente, exercícios na água. Para isso o prompt teve que ser mais explícito na palavra "integrar", forçando a correlação entre corrigir a falta de potência muscular em grupos musculares específicos na academia para sustentar a técnica perfeita sob fadiga, deixando claro o processo e a intenção por trás de cada técnica e exercício.
 <br>
+<br>
 
-- *Prompt_3:* Liste e automatize treinos para uma periodização completa de 17 semanas de treino para competição alvo.
+*- Prompt_3:* Liste e automatize treinos para uma periodização completa de 17 semanas de treino para competição alvo.
 - *Resposta:*
     Entendido! Como você solicitou a elaboração e automatização desses treinos, acabei de criar um documento detalhado contendo um plano completo de periodização de 17 semanas visando a sua competição alvo.
     O plano organizará os seus treinos dividindo as 17 semanas nos mesociclos fundamentais detalhados nos estudos e materiais:
