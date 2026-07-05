@@ -1,6 +1,6 @@
 # estudos-NotebookLM-natacao_
 
-**Assunto de Interresse** 
+**Assunto de Interresse** <br>
 O caderno temático explora o treinamento de alto rendimento na natação competitiva, com ênfase no desenvolvimento de força e potência muscular, na transferência dessas capacidades para a técnica na piscina, e na organização do planejamento de treinos através de modelos de periodização e polimento. 
 
 **Objetivos de Estudo**
@@ -8,7 +8,7 @@ O caderno temático explora o treinamento de alto rendimento na natação compet
 - Analisar a integração da força adquirida no treinamento físico com a técnica na piscina, evitando a perca de desempenho e aumento de arrasto.
 - Estudar a periodização do treinamento (tradicional em blocos) até a fase de descanso(polimento) para que o atleta alcançe o pico de performance na competição alvo.
 
-**Referências Bibliograficas**
+**Referências Bibliograficas**<br>
 As fontes abertas e artigos científicos fundamentais para a elaboração desse projeto foram:
 
     1- "TREINAMENTO DE FORÇA FORA DA ÁGUA PARA NADADORES VELOCISTAS" (Lívia Racioppi da Rocha Morgan, UFMG) - Foco: Exercícios de força (dryland), métodos pliométricos e sua transferência para as saídas, viradas e velocidade do nado. Disponivel em: https://repositorio.ufmg.br/server/api/core/bitstreams/ab381e31-9017-49ef-831b-3e1c0b393e45/content
@@ -21,7 +21,7 @@ As fontes abertas e artigos científicos fundamentais para a elaboração desse 
 
     5- "Diretrizes e Estruturas Metodológicas do Treinamento de Alto Rendimento para Natação Competitiva" - Foco: Prescrição de treinos, monitoramento de zonas metabólicas e estratégias de recuperação. Disponivel em: https://lume.ufrgs.br/bitstream/handle/10183/39253/000825502.pdf
 
-**Engenharia de Prompdts e "Cicatrizes"**
+**Engenharia de Prompdts e "Cicatrizes"**<br>
 Ao longo desse estudo foram elaboradas perguntas estrátegicas para extrair respostas desse caderno temático. Abaixo, o registro do raciocínio e do troubleshooting(cicatrizes):
 
 *- Prompt 1:* Como a potência muscular afeta a velocidade em provas curtas?
