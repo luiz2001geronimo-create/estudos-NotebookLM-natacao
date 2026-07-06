@@ -1,14 +1,14 @@
 # estudos-NotebookLM-natacao_
 
-**Assunto de Interresse** <br>
+1. **Assunto de Interresse** <br>
 O caderno temático explora o treinamento de alto rendimento na natação competitiva, com ênfase no desenvolvimento de força e potência muscular, na transferência dessas capacidades para a técnica na piscina, e na organização do planejamento de treinos através de modelos de periodização e polimento. 
 
-**Objetivos de Estudo**
+2. **Objetivos de Estudo**
 - Entender os vetores biomecânicos e caracteristicas fisioógicas que ligam potência muscular à velocidade de provas curtas(sprints de 50m e 100m).
 - Analisar a integração da força adquirida no treinamento físico com a técnica na piscina, evitando a perca de desempenho e aumento de arrasto.
 - Estudar a periodização do treinamento (tradicional em blocos) até a fase de descanso(polimento) para que o atleta alcançe o pico de performance na competição alvo.
 
-**Referências Bibliograficas**<br>
+3. **Referências Bibliograficas**<br>
 As fontes abertas e artigos científicos fundamentais para a elaboração desse projeto foram:
 
     1- "TREINAMENTO DE FORÇA FORA DA ÁGUA PARA NADADORES VELOCISTAS" (Lívia Racioppi da Rocha Morgan, UFMG) - Foco: Exercícios de força (dryland), métodos pliométricos e sua transferência para as saídas, viradas e velocidade do nado. Disponivel em: https://repositorio.ufmg.br/server/api/core/bitstreams/ab381e31-9017-49ef-831b-3e1c0b393e45/content
@@ -21,7 +21,7 @@ As fontes abertas e artigos científicos fundamentais para a elaboração desse 
 
     5- "Diretrizes e Estruturas Metodológicas do Treinamento de Alto Rendimento para Natação Competitiva" - Foco: Prescrição de treinos, monitoramento de zonas metabólicas e estratégias de recuperação. Disponivel em: https://lume.ufrgs.br/bitstream/handle/10183/39253/000825502.pdf
 
-**Engenharia de Prompdts e "Cicatrizes"**<br>
+4. **Engenharia de Prompdts e "Cicatrizes"**<br>
 Ao longo desse estudo foram elaboradas perguntas estrátegicas para extrair respostas desse caderno temático. Abaixo, o registro do raciocínio e do troubleshooting(cicatrizes):
 
 *- Prompt 1:* Como a potência muscular afeta a velocidade em provas curtas?
@@ -64,3 +64,20 @@ No *Prompt 2* a reposta obtida explicou a necessidade de "transferência muscula
     O documento também integrará as orientações para o treinamento de força (dryland) em cada uma dessas fases. Você poderá acompanhar a criação e acessar este guia completo na aba Studio em alguns minutos!
 
 No *Prompt 3* A IA compreendeu a complexidade do pedido e, utilizou autonomamente a ferramenta de geração de artefatos para criar o documento completo dividindo as 17 semanas em Base geral, Específica, Competitivo e Polimento. Pedir roteiros muito longos no chat tradicional geralmente resulta em cortes ou respostas superficiais. A estratégia de pedir uma periodização completa e automatizada ativou a capacidade da IA de estruturar o conhecimento em um formato de relatório consolidado (Report), garantindo maturidade técnica.
+<br>
+<br>
+
+5. **Miniguia de Estudos**
+
+5. 1. *Resumo do asssunto*
+- *Biomecâsnica da Força:* A força adquirida na academia não se traduz automaticamente em velocidade na piscina. É necessario focar na força relativa para não prejudicar a hidrodinâmica. O treinamento fora da água deve incluir aquecimento dinâmico, ativação do core e blocos de força explosiva para aprimorar, principalmente, as saídads e as viradas, que chegam a representar até 25% do tempo de provas curtas.
+
+- *Intregração de forças:* A conexão entre o que se faz fora da água e o meio líquido ocorre através do treinamento resistido na piscina(palmares, paraquedas) e séries curtas de intensidade máxima, que ensinam o sistema nervoso a recrutar as fibras Tipo II construídas na musculação diretamente no gesto motor do nado.
+
+- *Modelos de Periodização:* O treinamento deve acontecer de maneira organizada. O modelo tradicional foca em atingir um único pico anual, passando por longas fases de base geral e específica. O modelo em blocos visa múltiplos picos por temporada, dividindo o treino em blocos concentrados de volume, técnica e competição.
+
+- *Polimento(tapering):* Ocorre de 14 a 28 dias antes da prova (dependendo de cada atleta) e baseia-se na redução progressiva do volume de treino(em até 40% a 60%), sempre mantendo alta intensidade em volumes menores. Essa redução mesmo que com séries máximas, potencializa a recuperação de glicogênio, repara fibras, reduz a fadiga mental(melhora o humor) e maximiza a explosão de prova no dia da competição.
+<br>
+<br>
+
+5. 2. *Glossário*
