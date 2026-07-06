@@ -3,7 +3,7 @@
 **Assunto de Interresse** <br>
 O caderno temático explora o treinamento de alto rendimento na natação competitiva, com ênfase no desenvolvimento de força e potência muscular, na transferência dessas capacidades para a técnica na piscina, e na organização do planejamento de treinos através de modelos de periodização e polimento. 
 
-2. **Objetivos de Estudo**
+**Objetivos de Estudo**
 - Entender os vetores biomecânicos e caracteristicas fisioógicas que ligam potência muscular à velocidade de provas curtas(sprints de 50m e 100m).
 - Analisar a integração da força adquirida no treinamento físico com a técnica na piscina, evitando a perca de desempenho e aumento de arrasto.
 - Estudar a periodização do treinamento (tradicional em blocos) até a fase de descanso(polimento) para que o atleta alcançe o pico de performance na competição alvo.
@@ -85,7 +85,7 @@ No *Prompt 3* A IA compreendeu a complexidade do pedido e, utilizou autonomament
 
 - *_Periodização:_* Divisão sistemática de uma temporada de treinamento em períodos menores para garantir um desenvolvimento lógico das habilidades esportivas.
 
-- *_Dryland(treinamento fora d'água): _* Condicionamento e treinamento de força realizado fora da piscina, visando estabilização de core, ganho de força/potência, e prevenção de lesões musculoesqueléticas.
+- *_Dryland(treinamento fora d'água):_* Condicionamento e treinamento de força realizado fora da piscina, visando estabilização de core, ganho de força/potência, e prevenção de lesões musculoesqueléticas.
 
 - *_Fibras Tipo II:_* Fibras musculares ativadas em esforços curtos e explosivos (como sprints de 50m). Esssas fibras requerem alto poder de metabolismo anaeróbico.
 <br>
