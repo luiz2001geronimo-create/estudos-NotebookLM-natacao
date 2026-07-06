@@ -2,11 +2,15 @@
 
 **Assunto de Interresse** <br>
 O caderno temático explora o treinamento de alto rendimento na natação competitiva, com ênfase no desenvolvimento de força e potência muscular, na transferência dessas capacidades para a técnica na piscina, e na organização do planejamento de treinos através de modelos de periodização e polimento. 
+<br>
+<br>
 
 **Objetivos de Estudo**
 - Entender os vetores biomecânicos e caracteristicas fisioógicas que ligam potência muscular à velocidade de provas curtas(sprints de 50m e 100m).
 - Analisar a integração da força adquirida no treinamento físico com a técnica na piscina, evitando a perca de desempenho e aumento de arrasto.
 - Estudar a periodização do treinamento (tradicional em blocos) até a fase de descanso(polimento) para que o atleta alcançe o pico de performance na competição alvo.
+<br>
+<br>
 
 **Referências Bibliograficas**<br>
 As fontes abertas e artigos científicos fundamentais para a elaboração desse projeto foram:
@@ -20,6 +24,8 @@ As fontes abertas e artigos científicos fundamentais para a elaboração desse 
     4- "Série de treinamento intervalado de alta intensidade como índice de determinação da tolerância à acidose na predição da performance anaeróbia de natação" (Rafael Deminice et al., SciELO) - Foco: Metabolismo anaeróbico e predição de performance em provas de 100m. Disponivel em: https://www.scielo.br/j/rbme/a/VWtNdRcMxbvkM7rczLdrn9q/?lang=pt&format=pdf
 
     5- "Diretrizes e Estruturas Metodológicas do Treinamento de Alto Rendimento para Natação Competitiva" - Foco: Prescrição de treinos, monitoramento de zonas metabólicas e estratégias de recuperação. Disponivel em: https://lume.ufrgs.br/bitstream/handle/10183/39253/000825502.pdf
+<br>
+<br>
 
 **Engenharia de Prompdts e "Cicatrizes"**<br>
 Ao longo desse estudo foram elaboradas perguntas estrátegicas para extrair respostas desse caderno temático. Abaixo, o registro do raciocínio e do troubleshooting(cicatrizes):
