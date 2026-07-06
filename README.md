@@ -103,3 +103,8 @@ A fim de aprofundar ou revisar o material, utilize os seguintes prompts no Noteb
 1. Quais as diferenças e adaptações metabólicas exigidas entre o treinamento de um velocista (50m) e um fundista (1500m) com base nas fontes?
 2. Aja como um fisiologista do esporte. Elabore um plano de transição para as últimas 3 semanas de treino de um nadador de 100m livre, descrevendo volume, intensidade e alimentação.
 3. Quais são as principais lesões de ombro descritas na natação competitiva e como o treinamento de força preventiva fora da água(dryland) deve ser prescrito para evitá-las?
+<br>
+<br>
+
+
+[**Link Caderno Temático**](https://notebooklm.google.com/notebook/41e79759-5087-47ca-9a47-816491df0cc8)
